@@ -1,7 +1,7 @@
 ---
 title: "Alternatif Adobe Illustrator Gratis"
 date: 2020-07-07T16:32:46+07:00
-draft: true
+draft: false
 Tags: [Alternatif, Gratis, Illustrator]
 Categories: [Software]
 ---

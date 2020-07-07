@@ -2,12 +2,58 @@ baseURL = "https://adriantriks.xyz/"
 languageCode = "en-us"
 title = "Adrian Tricks & Alternative"
 theme = "anatole"
+summarylength = 10
+enableEmoji = true
 
-
-#About me
-
+#Intro dan gambar samping
 [params]
 title = "Adrian Tricks & Alternative"
 author = "Adrian Candra Kusumah"
-description = "Situs trik dan alternatif software untuk pc. Mulai dari Linux, aplikasi gratis, dll."
+description = "Trik dan alternatif di dunia komputer."
 profilePicture = "images/Cool.png"
+favicon = "favicons/favicon.ico"
+mainSections = ["post"]
+
+#Link Social Media
+## Social links
+[[params.socialIcons]]
+icon = "fa-facebook"
+title = "Facebook"
+url = "https://facebook.com/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/adrianck9h/adriantriks"
+
+[[params.socialIcons]]
+icon = "fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/adrianck9h"
+
+[[params.socialIcons]]
+icon = "fa-envelope"
+title = "e-mail"
+url = "mailto:adrianck9h@gmail.com"
+
+
+#Bagian tab menu
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/about-me/"

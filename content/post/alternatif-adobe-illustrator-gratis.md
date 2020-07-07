@@ -30,10 +30,10 @@ Untuk mendownloadnya, kalian dapat download melalui situs resminya di sini
 
 Setelah masuk di sana, kalian klik download dan pilih *current version*
 
-![inkscape](/images/inkscape/download1.png)
+![inkscape](/gambar/inkscape/download1.png)
 
 lalu pilih sesuai sistem operasi komputer kalian. 
 
-![os-select](/images/inkscape/download2.png)
+![os-select](/gambar/inkscape/download2.png)
 
 Untuk windows kalian akan mendapat pilihan **32bit** dan **64bit** , kalau pc/laptop kalian keluaran 2012 keatas maka kemungkinan pc/laptop kalian itu 64bit, jadi pilih lah yang 64bit. Tapi bila komputer kalian 32bit, maka pilih yang 32bit.

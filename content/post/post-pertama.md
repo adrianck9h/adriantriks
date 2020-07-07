@@ -3,7 +3,7 @@ title: "Post Pertama"
 date: 2020-07-07T08:21:49+07:00
 Description: ""
 Tags: [Announcement]
-Categories: [Uncategories]
+Categories: [Uncategorize]
 DisableComments: false
 draft: false
 ---

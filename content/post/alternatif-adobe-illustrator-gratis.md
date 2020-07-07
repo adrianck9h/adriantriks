@@ -36,4 +36,10 @@ lalu pilih sesuai sistem operasi komputer kalian.
 
 ![os-select](/gambar/inkscape/download2.png)
 
-Untuk windows kalian akan mendapat pilihan **32bit** dan **64bit** , kalau pc/laptop kalian keluaran 2012 keatas maka kemungkinan pc/laptop kalian itu 64bit, jadi pilih lah yang 64bit. Tapi bila komputer kalian 32bit, maka pilih yang 32bit.
+Untuk windows kalian akan mendapat pilihan **32bit** dan **64bit** , kalau pc/laptop kalian keluaran 2012 keatas maka kemungkinan pc/laptop kalian itu 64bit, jadi pilih lah yang 64bit. Tapi bila komputer kalian 32bit, maka pilih yang 32bit. Lalu pilih yang versi .exe
+
+![32or64](/gambar/inkscape/download3.png)
+
+Setelah download, kalian tinggal hanya perlu menginstallnya dengan cara yang biasa, dan setelah itu kalian dapat menggunakannya.
+
+*-Adrian*

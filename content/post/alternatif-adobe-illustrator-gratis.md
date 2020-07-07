@@ -5,6 +5,7 @@ draft: false
 Tags: [Alternatif, Gratis, Illustrator]
 Categories: [Software]
 ---
+![tampilan-laman](/gambar/inkscape/aitoinkscape.png)
 
 Ada beberapa alternatif untuk pengganti Adobe Illustrator, diantaranya seperti CorelDraw dan Affinity Designer. Tapi, kali ini saya akan membahas Software alternatif yang gratis yang bisa digunakan siapapun dan meski menggunakan komputer **kentang** sekalipun.
 

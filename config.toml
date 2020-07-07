@@ -2,7 +2,7 @@ baseURL = "https://adriantriks.xyz/"
 languageCode = "en-us"
 title = "Adrian Tricks & Alternative"
 theme = "anatole"
-summarylength = 10
+summarylength = 30
 enableEmoji = true
 
 #Intro dan gambar samping

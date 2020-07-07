@@ -11,13 +11,18 @@ Ada beberapa alternatif untuk pengganti Adobe Illustrator, diantaranya seperti C
 Yup, Inkscape adalah alternatif untuk Adobe Illustrator yang harga *subscriptions* perbulannya terbilang mahal. Meski Inkscape ini gratis, software ini dapat melakukan pekerjaan yang sama seperti Adobe Illustrator. 
 
 Inkscape memiliki kekurangan:
+
 - Tidak support ekstensi .ai
+
 - Belum support CMYK
 
 Namun, Inkscape juga memiliki kelebihan:
+
 - Gratis
+
 - Jalan di pc/laptop kentang
+
 - Bisa melakukan hal yang sama seperti Adobe Illustrator
 
-### Download
-Untuk mendownloadnya, kalian dapat download melalui situs resminya di sini [Inkscape](https://inkscape.org/)
+Untuk mendownloadnya, kalian dapat download melalui situs resminya di sini
+## [Inkscape](https://inkscape.org/)

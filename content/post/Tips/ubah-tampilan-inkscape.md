@@ -38,6 +38,8 @@ Lalu klik tombol yang seperti tombol play di video (bagian pojok kanan bawah), l
 
 ![edit tampilan5](/gambar/inkscape/editampilan5.png)
 
-lalu kalian dapat mengikuti video di bawah ini
+lalu kalian dapat mengikuti video di bawah ini 
+
+*(sori ya, saya agak males ngelanjutin, jadi ikutin aja videonya. Lain kali saya edit lagi...)*
 
 [Link Video](https://u.pcloud.link/publink/show?code=XZ8XgAkZSXQccQDPBcSgUgJXgWbMzupHl417)

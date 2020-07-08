@@ -42,4 +42,5 @@ lalu kalian dapat mengikuti video di bawah ini
 
 *(sori ya, saya agak males ngelanjutin, jadi ikutin aja videonya. Lain kali saya edit lagi...)*
 
+
 [Link Video](https://u.pcloud.link/publink/show?code=XZ8XgAkZSXQccQDPBcSgUgJXgWbMzupHl417)

@@ -57,3 +57,6 @@ url = "mailto:adrianck9h@gmail.com"
   weight = 300
   identifier = "about"
   url = "/about/about-me/"
+  
+  # Google Analytics
+googleAnalytics = "UA-123-45"

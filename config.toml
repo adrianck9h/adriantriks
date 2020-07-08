@@ -47,14 +47,21 @@ url = "mailto:adrianck9h@gmail.com"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "List"
   weight = 200
+  identifier = "list"
+  url = "/list/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 300
   identifier = "posts"
   url = "/post/"
 
+  
   [[menu.main]]
   name = "About"
-  weight = 300
+  weight = 400
   identifier = "about"
   url = "/about/about-me/"
   

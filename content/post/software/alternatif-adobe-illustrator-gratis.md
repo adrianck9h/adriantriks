@@ -43,4 +43,8 @@ Untuk windows kalian akan mendapat pilihan **32bit** dan **64bit** , kalau pc/la
 
 Setelah download, kalian tinggal hanya perlu menginstallnya dengan cara yang biasa, dan setelah itu kalian dapat menggunakannya.
 
-*-Adrian*
+*Adrian*
+
+
+---
+<a href="https://www.domainesia.com/?aff=11990" target="_blank"><img src="https://goo.gl/VtL511" alt="DomaiNesia"></a>

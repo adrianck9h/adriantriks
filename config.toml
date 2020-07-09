@@ -11,7 +11,7 @@ title = "Adrian Tricks & Alternative"
 author = "Adrian Candra Kusumah"
 description = "Trik dan alternatif di dunia komputer."
 profilePicture = "images/Cool.png"
-favicon = "favicons/favicon.ico"
+favicon = "/favicons/favicon.ico"
 mainSections = ["post"]
 
 #Link Social Media
@@ -59,5 +59,4 @@ url = "mailto:adrianck9h@gmail.com"
   identifier = "about"
   url = "/about/about-me/"
   
-  # Google Analytics
-# googleAnalytics = "UA-123-45"
+  

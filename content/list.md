@@ -5,10 +5,10 @@ draft: false
 ---
 
 ## Software
-[Inkscape: Alternatif Adobe Illustrator Gratis](/post/software/alternatif-adobe-illustrator-gratis/)
+[Inkscape: Alternatif Adobe Illustrator Gratis](/post/2020/alternatif-adobe-illustrator-gratis/)
 
 ## Tips & Trik
-[Ubah Tampilan Inkscape](/post/tips/ubah-tampilan-inkscape/)
+[Ubah Tampilan Inkscape](/post/2020/ubah-tampilan-inkscape/)
 
 ## Uncategorize
 [Post Pertama](/post/post-pertama/)

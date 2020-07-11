@@ -13,6 +13,11 @@ Bagi yang pertama kalkai ingin menggunakan linux, banyak yang bingung distro apa
 
 Nah, di sini saya akan memberikan beberapa rekomendasi untuk para pemula.
 
+## Linux Mint
+
+
+Untuk kalian yang suka tampian yang simple dan mirip dengan tampilan windows, maka linux mint adalah pilihan yang bagus. 
+
 *Adrian*
 
 ---

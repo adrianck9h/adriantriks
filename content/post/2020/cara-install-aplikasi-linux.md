@@ -5,6 +5,7 @@ Description: ""
 Tags: []
 Categories: [Linux]
 DisableComments: false
+draft: true
 ---
 ***Assalamu'alaikum***
 

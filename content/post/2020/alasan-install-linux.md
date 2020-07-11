@@ -1,5 +1,5 @@
 ---
-title: "Kenapa Harus menginstall Linux"
+title: "Alasan Kenapa Harus Menginstall Linux"
 date: 2020-07-11T13:49:26+07:00
 Description: ""
 Tags: [Linux, Install, Alasan]
@@ -16,7 +16,7 @@ Ada alasan kenapa kalian lebih baik menginstall linux daripada windows di komput
 Berikut adalah beberapa alasan kenapa kalian harus menginstall linux dibandingkan windows:
 
 - Murah (Cuma perlu modal kuota internet dan flashdisk)
-- Aman dari virus (Kecuali kalian orang yang *luar biasa ceroboh*)
+- Aman dari virus (Kecuali kalian orang yang *"luar biasa ceroboh"*)
 - Update kapan saja, tidak ada paksaan untuk update
 - Ringan meski di pc/laptop jadul
 

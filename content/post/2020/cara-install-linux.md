@@ -45,6 +45,17 @@ Lalu klik flash! dan tunggu proses selesai
 
 Nah... setelah selesai flash, tutup balena etcher kalian. lalu restart pc/laptop kalian **tapi** dengan keadaan flashdisk masih tetap terpasang. Saat komputer/laptop **mulai** kembali menyala tekan tombol F12 atau mungkin tombol lain (bisa saja F2, F8, F10, atau F lainnya, tergantung dari pembuat komputer/laptop kalian) dan ubah pengaturan boot jadi melalui flashdisk. 
 
+Contohnya seperti ini:
+
+![bios1](/gambar/linux/bios1.jpg)
+(*Gambar setting di laptop acer menggunakan F12*)
+
+Atau ini:
+
+![bios2](/gambar/linux/bios2.jpg)
+(*Gambar setting menggunakan F2 di laptop acer*)
+
+
 setelah itu tekan enter. Dan nanti kalian akan menemukan tampilan boot. Di sana tekan enter di pilihan install linux.
 
 Kalian nanti akan di bawa ke tampilan desktop. Di sana klik icon installer. Dan mulai lakukan penginstallan.

@@ -5,7 +5,7 @@ Description: ""
 Tags: [OS, Operating System, Alternatif, Linux, Install, Ubuntu, Linux Mint, ElementaryOS, KDE Neon, Kubuntu, Lubuntu, Ubuntu based, Debian, Debian based]
 Categories: [Linux]
 DisableComments: false
-draft: true
+draft: false
 ---
 **_Assalamu'alaikum_**
 

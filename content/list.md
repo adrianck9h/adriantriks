@@ -6,6 +6,7 @@ draft: false
 
 ## Linux
 [Alasan Kenapa Harus Menginstall Linux](/post/2020/alasan-install-linux/)
+
 [Cara Install Linux](/post/2020/cara-install-linux/)
 
 ## Software

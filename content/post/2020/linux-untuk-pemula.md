@@ -1,8 +1,8 @@
 ---
-title: "Linux Untuk Pemula"
+title: "Linux Yang Cocok Untuk Pemula"
 date: 2020-07-11T14:30:51Z
 Description: ""
-draft: true
+draft: false
 Tags: [Tips & Trik, Linux, Rekomendasi, Pemula]
 Categories: [Linux]
 DisableCommments: False

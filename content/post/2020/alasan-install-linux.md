@@ -28,7 +28,7 @@ Tapi ada juga alasan kenapa kalian tidak memilih Linux:
 - Pekerjaan kalian memang mengharuskan menggunakan Microsoft Office
 - Kalian adalah Gamer berat yang suka memainkan game terbaru
 
-*Adrian*
+*Penulis: Adrian*
 
 ---
 <a href="https://www.domainesia.com/?aff=11990" target="_blank"><img src="https://goo.gl/VtL511" alt="DomaiNesia"></a>

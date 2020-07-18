@@ -85,7 +85,7 @@ nanti akan ada perintah untuk mencabut flashdisk kalian. Nah, di saat itulah kal
 
 Dan begitulah... dengan begitu Linux telah terinstall di komputer kalian.
 
-*Adrian*
+*Penulis: Adrian*
 
 ---
 <a href="https://www.domainesia.com/?aff=11990" target="_blank"><img src="https://goo.gl/VtL511" alt="DomaiNesia"></a>

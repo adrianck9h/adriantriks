@@ -45,7 +45,7 @@ lalu kalian dapat mengikuti video di bawah ini
 
 [Link Video](https://u.pcloud.link/publink/show?code=XZ8XgAkZSXQccQDPBcSgUgJXgWbMzupHl417)
 
-*Adrian*
+*Penulis: Adrian*
 
 
 ---

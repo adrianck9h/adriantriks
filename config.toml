@@ -59,4 +59,9 @@ url = "mailto:adrianck9h@gmail.com"
   identifier = "about"
   url = "/about/about-me/"
   
+  [[menu.main]]
+  name = "Disclaimer"
+  weight =400
+  identifier = "disclaimer"
+  url = "/disclaimer/"
   

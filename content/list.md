@@ -2,6 +2,7 @@
 title: "List"
 date: 2020-07-08T16:36:38+07:00
 draft: false
+DisableComments: True
 ---
 
 ## Linux

@@ -2,6 +2,7 @@
 title: "About Me"
 date: 2020-07-07T08:50:03+07:00
 draft: false
+DisableComments: True
 ---
 
 # Adrian Candra Kusumah

@@ -5,7 +5,7 @@ Description: ""
 Tags: [Alternatif, Microsoft Office, Word, Power Point, Excel, Outlook]
 Categories: [Software]
 DisableComments: false
-draft: true
+draft: false
 ---
 ***Assalamu'alaikum***
 
@@ -53,7 +53,23 @@ Untuk versi yang gratis, kalian mendapatkan fitur document, presentation, dan sp
 
 Selain itu, OnlyOffice juga dapat disambungkan dengan layanan cloud yang kalian miliki. Sehingga meski kalian tidak punya filenya di komputer kalian, kalian masih tetap dapat membuka file yang ada di cloud.
 
-Untuk yang gratis, terdapat dua versi yang bisa di download, 
+Dengan OnlyOffice kalian dapat membuka beberapa file document ataupun yang lainnya dalam tab yang berbeda. Iya, tab yang berbeda bukan window yang berbeda. Sehingga kalian dapat berpindah hanya perlu pindah tab saja untuk berpindah dokumen.
+
+Untuk yang gratis, terdapat dua versi yang bisa di download, yaitu "Desktop Editor" dan "Document Builder". OnlyOffice tersedia untuk Windows, MacOS, dan Linux.
+
+Link Situs Resmi: [[OnlyOffice](https://www.onlyoffice.com/)]
+
+## 4. WPS Office
+
+![WPS Office](/gambar/software/wps-office.png)
+
+Lalu selanjutnya WPS Office. Ya, mungkin sebagian dari kalian sudah familiar dengan aplikasi ini di dalam android. WPS office juga memiliki versi untuk pc yang mana tampilannya juga cukup mirip dengan Microsoft Office. 
+
+WPS Office memiliki fitur presentation, writer, spreadsheet, dan PDF yang dapat digunakan untuk mengedit file PDF. WPS juga memiliki fitur yang sama seperti OnlyOffice yang mana untuk berpindah dokumen kita hanya perlu pindah tab saja bukan windownya. Sehingga ini bisa dikatakan lebih praktis.
+
+WPS Office tersedia untuk MacOS, Linux, dan Windows.
+
+Link Situs Resmi: [[WPS Office](https://www.wps.com/)]
 
 *Penulis: Adrian*
 

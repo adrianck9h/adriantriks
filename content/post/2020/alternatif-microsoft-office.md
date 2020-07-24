@@ -71,6 +71,21 @@ WPS Office tersedia untuk MacOS, Linux, dan Windows.
 
 Link Situs Resmi: [[WPS Office](https://www.wps.com/)]
 
+## Pengganti Outlook
+
+![Thunderbird](/gambar/software/thunderbird.png)
+
+Untuk Outlook, yang bisa jadi alternatif adalah Thunderbird. Thunderbird merupakan salah satu aplikasi buatan mozilla yang dapat kalian download secara gratis.
+
+Kalian dapat menambahkan add-on dan juga mengganti tema yang ada di Thunderbird. Ngomong-ngomong, kalian pun dapat memilih bahasa dan sistem operasi yang ingin kalian gunakan di dengan mengklik "Systems & Languages" yang ada di bawah tulisan "Free Download".
+
+![Thunderbird](/gambar/software/thunderbird0.png)
+
+Thunderbird tersedia untuk Linux, MacOS, dan juga Windows.
+
+Link Situs Resmi: [[Thunderbird](https://www.thunderbird.net/)]
+
+
 *Penulis: Adrian*
 
 ---
